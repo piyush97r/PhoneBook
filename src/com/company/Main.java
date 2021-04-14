@@ -21,7 +21,7 @@ class Main{
 
         Set<String> keys = contacts.keySet();	//to get all the keys present in the hash table.
         for(String key: keys){
-            System.out.println("Number of "+key+" is: "+contacts.get(key));
+            System.out.println("Number of "+key+" is: "+contacts.get(key)); // Printing all the contents in the table
         }
 
         // to remove a entry from the hashtable.
