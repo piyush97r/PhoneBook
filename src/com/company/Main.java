@@ -6,7 +6,7 @@ class Main{
     public static void main(String args[]){
         Hashtable<String,Integer> contacts=new Hashtable<String,Integer>();  //HashTable API provided by java (Initialize)
 
-        contacts.put("Ross",24434);  //put function adds value to the hash table
+        contacts.put("Ross",24434);  //put function adds value to the hash tables
         contacts.put("Rachel",24244);
         contacts.put("Chandler",12444);
         contacts.put("Monica",13144);
