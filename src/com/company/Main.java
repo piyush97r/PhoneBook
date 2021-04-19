@@ -13,7 +13,7 @@ class Main{
 
 
         //to check if some key is contained by the hashtable
-        System.out.println(contacts.containsKey("Chandler"));    //returns a bool value
+        System.out.println(contacts.containsKey("Chandler"));    //returns a bool values
 
         //Let's search for some name in this phonebook.
         System.out.println(contacts.get("Chandler")); //get function gets the value for the key sent in the function.
