@@ -27,7 +27,7 @@ class Main{
         // to remove a entry from the hashtable.
         contacts.remove("Chandler");
 
-        System.out.println(contacts.containsKey("Chandler")); //to check if key has been removed
+        System.out.println(contacts.containsKey("Chandler")); //to checks if key has been removed
 
         contacts.clear();   // to clear the hashtable completely.
     }
