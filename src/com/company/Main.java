@@ -29,6 +29,6 @@ class Main{
 
         System.out.println(contacts.containsKey("Chandler")); //to checks if key has been removed
 
-        contacts.clear();   // to clear the hashtable completely.
+        contacts.clear();   // to clear the hashtabled completely.
     }
 }
